@@ -22,7 +22,9 @@
   ],
   "description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
   "version": "0.0.1",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
   "author": "6rak0",
   "license": "ISC"
 }
