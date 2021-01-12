@@ -1,1 +1,1 @@
-simple svelte strapi login component
+componente de login simple para svelte y strapi

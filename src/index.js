@@ -1,1 +1,3 @@
-export { default as Login } from './Login.svelte'
+import Login from './Login.svelte'
+
+export default Login
